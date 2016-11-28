@@ -1,4 +1,4 @@
-#CS-252 Hubot
+#Hubot
 
 ##Introduction
 This can be used as a personal/team bot for simple tasks (described below).
